@@ -1,0 +1,7 @@
+## 1.基本概念
+* 子类型必须能够替换掉他们的父类型
+* 只有当子类可以替换掉父类，软件单位的功能不受到影响时，
+ 父类才能真正被复用，而子类也能够在父类的基础上增加新的行为
+ 。由于子类的可替换性才使得弗雷类型的模块再无需修改的情况下就可以扩展。
+ ## 2.参考
+ https://blog.csdn.net/yabay2208/article/details/73826719?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.channel_param

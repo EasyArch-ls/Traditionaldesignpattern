@@ -9,7 +9,7 @@ package buildepattern;
 public abstract class Builder {
 
     /**
-     * 加入产品B
+     * 加入产品A
      */
     public abstract void buildPartA();
 
