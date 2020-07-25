@@ -1,0 +1,5 @@
+## 1.基本概念
+* 高层模块不应该依赖低层模块。两个都应该依赖抽象。
+* 抽象不应该依赖细节。细节应该依赖抽象。
+## 2.详细可参考
+https://blog.csdn.net/yabay2208/article/details/73826719?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.channel_param
